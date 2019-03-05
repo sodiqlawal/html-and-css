@@ -1,0 +1,148 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-image: url(check#jpg);
+}
+
+#container {
+	width: 1200px;
+	margin: 0 auto;
+	border: 1px solid brown;
+    font-family: arial, verdana, sans-serif;
+}
+
+#header {
+	background: brown;
+	width: 1180px;
+	padding: 20px 10px;
+	color: white;
+}
+
+#nav {
+	background-color: orange;
+	width: 1200px;
+}
+
+#nav ul {
+	list-style: none;
+}
+#nav ul li {
+	float: left;
+	width: 180px;
+	padding: 10px;
+}
+
+#nav ul li:hover {
+	background: #f1f1f1;
+}
+
+#middle {
+	
+	width: 1200px;
+}
+
+#left {	
+	width: 800px;
+	height: 550px;
+	float: left;
+}
+
+.post {
+	 
+	 margin: 20px;	 
+	
+}
+
+.title {
+	 background: brown;
+	 padding: 15px 10px;
+	 font-weight: bold;
+	 color: white;
+	 font-size: 20px;
+	
+}
+
+.description {
+	 background: #f1f1f1;
+	 padding: 20px;
+}
+
+
+#right {
+	
+	width: 360px;
+	height: 550px;
+	float: left;
+	padding: 20px;
+}
+
+#right h2 {
+	text-align: center;
+	color: 
+}
+
+.latest_post {
+	 background: brown;
+	 text-align: center;
+	 padding: 10px 0px;
+	 color: white;
+	 margin: 10px;
+}
+	 
+.info {	 
+	 margin: 20px 10px;
+}
+
+#news_letter {
+	 
+}
+
+.news {
+	 background: ;
+	 text-align: center;
+	 font-size: 25px;
+	 
+}	
+
+input[type="text"] {
+	  width: 350px;
+	  height: 60px;
+}
+
+
+input[type="submit"] {
+	  width: 350px;	
+	  background: orange;
+	  color: black;
+	  padding: 10px 0;
+	  border: none;
+	  font-size: 20px;
+	  margin: 10px 0;
+}
+
+input[type="submit"]:hover {
+	 
+	  background: brown;
+	  color: white;	  
+}
+	
+	 			 
+#footer {
+	background: brown;
+	width: 1200px;
+	
+	text-align: center;
+	color: white;
+	padding: 20px 0;
+}
+
+
+
+
+
+
+
+
